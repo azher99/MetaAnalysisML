@@ -1,8 +1,6 @@
 # Data Description
 
-The dataset is not publicly available.
-
-Expected structure:
+Expected data structure:
 
 * LnRR : effect size
 * V : variance of effect size
